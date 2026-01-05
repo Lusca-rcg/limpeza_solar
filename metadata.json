@@ -1,0 +1,5 @@
+{
+  "name": "Solar Quote Pro",
+  "description": "Sistema moderno para geração de orçamentos de manutenção e limpeza de placas solares com cálculo de distância e geração de PDF.",
+  "requestFramePermissions": []
+}
